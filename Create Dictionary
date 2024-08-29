@@ -1,0 +1,19 @@
+bscit = {
+    "fybscit": {
+        "sub1": "c",
+        "sub2": "dbms",
+        "sub3": "os"
+    },
+    "sybscit": {
+        "sub1": "cpp",
+        "sub2": "dbs",
+        "sub3": "ai"
+    },
+    "tybscit": {
+        "sub1": "java",
+        "sub2": "python",
+        "sub3": "data structure "
+    },
+} 
+
+print(bscit["tybscit"].values())
